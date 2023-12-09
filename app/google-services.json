@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996795010896",
+    "project_id": "farmconsultancy-b8a52",
+    "storage_bucket": "farmconsultancy-b8a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996795010896:android:5fa0d5f182a65a97aa6655",
+        "android_client_info": {
+          "package_name": "com.example.farmconsultancy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHjtfk1qQkKh-yt7La7WVD4_KlJQASaHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Farmconsultancy</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="click_to_sign_in">click to sign in</string>
+    <string name="click_to_register">click to register</string>
+    <string name="sign_out">Sign out</string>
+    <string name="home">Home</string>
+    <string name="sign_in_to_start_your_session">sign in to start your session</string>
+    <string name="register_now">register now</string>
+    <string name="animal_deseases">Animal deseases</string>
+    <string name="crop_desease">Crop desease</string>
+</resources>

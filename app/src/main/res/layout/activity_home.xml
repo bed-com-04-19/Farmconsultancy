@@ -16,6 +16,7 @@
         android:text="Animal  category"
         android:textSize="40dp"/>
 
+
     <TextView
         android:layout_below="@+id/animalCat"
         android:id="@+id/profile"
@@ -25,6 +26,7 @@
         android:text="Crop category"
         android:textSize="40dp"
         android:layout_marginTop="0dp"/>
+
 
     <TextView
         android:layout_below="@+id/profile"
@@ -39,11 +41,7 @@
 
 
 
-    <ProgressBar
-        android:id="@+id/progressBar"
-        android:visibility="gone"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+
 
 
 

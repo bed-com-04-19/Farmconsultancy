@@ -15,6 +15,11 @@
         android:theme="@style/Theme.Farmconsultancy"
         tools:targetApi="31">
         <activity
+            android:name=".CropDisease"
+            android:exported="false"
+            android:label="@string/title_activity_crop_disease"
+            android:theme="@style/Theme.Farmconsultancy" />
+        <activity
             android:name=".Home"
             android:exported="false" />
         <activity

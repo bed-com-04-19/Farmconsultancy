@@ -14,4 +14,28 @@
         android:textSize="30sp"
 
         android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_below="@+id/Cropdeseases"
+        android:id="@+id/control"
+        android:layout_width="wrap_content"
+        android:text="@string/disease_control"
+        android:textSize="30sp"
+
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_below="@+id/control"
+        android:id="@+id/pest"
+        android:layout_width="wrap_content"
+        android:text="@string/pest_control"
+        android:textSize="30sp"
+
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_below="@+id/pest"
+        android:id="@+id/plant"
+        android:layout_width="wrap_content"
+        android:text="Plant reccomendations"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"/>
 </RelativeLayout>
